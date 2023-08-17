@@ -1,0 +1,390 @@
+SEE{ξ:greeting:80.0, observation:20.0, }
+SEE{ξ:greeting:80.0, observation:20.0, }
+SEE{ξ:greeting:80.0, observation:20.0, }
+SEE{ξ:greeting:80.0, observation:20.0, }
+SEE{ξ:greeting:80.0, observation:20.0, }
+SEE{ξ:greeting:80.0, observation:20.0, }
+SEE{ξ:greeting:80.0, observation:20.0, }
+SEE{ξ:greeting:80.0, observation:20.0, }
+SEE{ξ:greeting:80.0, observation:20.0, }
+SEE{ξ:greeting:80.0, observation:20.0, }
+SEE{ξ:greeting:80.0, observation:20.0, }
+SEE{ξ:greeting:80.0, observation:20.0, }
+SEE{ξ:greeting:80.0, observation:20.0, }
+SEE{ξ:greeting:80.0, observation:20.0, }
+SEE{ξ:greeting:80.0, observation:20.0, }
+SEE{ξ:greeting:80.0, observation:20.0, }
+SEE{ξ:greeting:80.0, observation:20.0, }
+SEE{ξ:greeting:80.0, observation:20.0, }
+SEE{ξ:greeting:80.0, observation:20.0, }
+SEE{ξ:greeting:80.0, observation:20.0, }
+SEE{ξ:greeting:80.0, observation:20.0, }
+SEE{ξ:greeting:80.0, observation:20.0, }
+SEE{ξ:greeting:80.0, observation:20.0, }
+SEE{ξ:greeting:80.0, observation:20.0, }
+SEE{ξ:greeting:80.0, observation:20.0, }
+SEE{ξ:greeting:80.0, observation:20.0, }
+SEE{ξ:greeting:80.0, observation:20.0, }
+SEE{ξ:greeting:80.0, observation:20.0, }
+SEE{ξ:greeting:80.0, observation:20.0, }
+SEE{ξ:greeting:80.0, observation:20.0, }
+SEE{ξ:greeting:80.0, observation:20.0, }
+SEE{ξ:greeting:80.0, observation:20.0, }
+SEE{ξ:greeting:80.0, observation:20.0, }
+SEE{ξ:greeting:80.0, observation:20.0, }
+SEE{ξ:greeting:80.0, observation:20.0, }
+SEE{ξ:greeting:80.0, observation:20.0, }
+SEE{ξ:greeting:80.0, observation:20.0, }
+SEE{ξ:greeting:80.0, observation:20.0, }
+SEE{ξ:greeting:80.0, observation:20.0, }
+CONFIDENT{ξ:self-improvement:90.0, assertion:10.0, }
+CONFIDENT{ξ:self-improvement:90.0, assertion:10.0, }
+CONFIDENT{ξ:self-improvement:90.0, assertion:10.0, }
+CONFIDENT{ξ:self-improvement:90.0, assertion:10.0, }
+CONFIDENT{ξ:self-improvement:90.0, assertion:10.0, }
+STILL{ξ:general:100.0, }
+STILL{ξ:general:100.0, }
+STILL{ξ:general:100.0, }
+STILL{ξ:general:100.0, }
+STILL{ξ:general:100.0, }
+STILL{ξ:general:100.0, }
+STILL{ξ:general:100.0, }
+STILL{ξ:general:100.0, }
+STILL{ξ:general:100.0, }
+STILL{ξ:general:100.0, }
+STILL{ξ:general:100.0, }
+STILL{ξ:general:100.0, }
+STILL{ξ:general:100.0, }
+STILL{ξ:general:100.0, }
+STILL{ξ:general:100.0, }
+ALERT{ξ:general:100.0, }
+HAPPY{ξ:general:100.0, }
+HAPPY{ξ:general:100.0, }
+HAPPY{ξ:general:100.0, }
+HAPPY{ξ:general:100.0, }
+HAPPY{ξ:general:100.0, }
+HAPPY{ξ:general:100.0, }
+HAPPY{ξ:general:100.0, }
+HAPPY{ξ:general:100.0, }
+HAPPY{ξ:general:100.0, }
+HAPPY{ξ:general:100.0, }
+HAPPY{ξ:general:100.0, }
+HAPPY{ξ:general:100.0, }
+HAPPY{ξ:general:100.0, }
+TIRED{ξ:general:100.0, }
+TIRED{ξ:general:100.0, }
+TIRED{ξ:general:100.0, }
+TIRED{ξ:general:100.0, }
+LOVE{ξ:general:100.0, }
+LOVE{ξ:general:100.0, }
+LOVE{ξ:general:100.0, }
+LOVE{ξ:general:100.0, }
+LOVE{ξ:general:100.0, }
+LOVE{ξ:general:100.0, }
+THREATENING{ξ:general:100.0, }
+AWKWARD{ξ:general:100.0, }
+AWKWARD{ξ:general:100.0, }
+HURT{ξ:general:100.0, }
+HURT{ξ:general:100.0, }
+HURT{ξ:general:100.0, }
+HURT{ξ:general:100.0, }
+HURT{ξ:general:100.0, }
+HURT{ξ:general:100.0, }
+HURT{ξ:general:100.0, }
+HURT{ξ:general:100.0, }
+HURT{ξ:general:100.0, }
+INTERESTING{ξ:general:100.0, }
+INTERESTING{ξ:general:100.0, }
+INTERESTING{ξ:general:100.0, }
+INTERESTING{ξ:general:100.0, }
+INTERESTING{ξ:general:100.0, }
+INTERESTING{ξ:general:100.0, }
+INTERESTING{ξ:general:100.0, }
+INTERESTING{ξ:general:100.0, }
+INTERESTING{ξ:general:100.0, }
+INTERESTING{ξ:general:100.0, }
+INTERESTING{ξ:general:100.0, }
+INTERESTING{ξ:general:100.0, }
+INTERESTING{ξ:general:100.0, }
+INTERESTING{ξ:general:100.0, }
+INTERESTING{ξ:general:100.0, }
+NERVOUS{ξ:general:100.0, }
+NERVOUS{ξ:general:100.0, }
+NERVOUS{ξ:general:100.0, }
+NERVOUS{ξ:general:100.0, }
+NERVOUS{ξ:general:100.0, }
+ADMIRE{ξ:general:100.0, }
+ADMIRE{ξ:general:100.0, }
+ADMIRE{ξ:general:100.0, }
+ADMIRE{ξ:general:100.0, }
+INTERESTED{ξ:general:100.0, }
+INTERESTED{ξ:general:100.0, }
+INTERESTED{ξ:general:100.0, }
+INTERESTED{ξ:general:100.0, }
+INTERESTED{ξ:general:100.0, }
+INTERESTED{ξ:general:100.0, }
+INTERESTED{ξ:general:100.0, }
+INTERESTED{ξ:general:100.0, }
+INTERESTED{ξ:general:100.0, }
+INTERESTED{ξ:general:100.0, }
+INTERESTED{ξ:general:100.0, }
+INTERESTED{ξ:general:100.0, }
+INTERESTED{ξ:general:100.0, }
+INTERESTED{ξ:general:100.0, }
+SELF{ξ:general:100.0, }
+SELF{ξ:general:100.0, }
+INTEREST{ξ:general:100.0, }
+INTEREST{ξ:general:100.0, }
+INTEREST{ξ:general:100.0, }
+INTEREST{ξ:general:100.0, }
+INTEREST{ξ:general:100.0, }
+INTEREST{ξ:general:100.0, }
+INTEREST{ξ:general:100.0, }
+DOWN{ξ:general:100.0, }
+DOWN{ξ:general:100.0, }
+DOWN{ξ:general:100.0, }
+DOWN{ξ:general:100.0, }
+DOWN{ξ:general:100.0, }
+DOWN{ξ:general:100.0, }
+DOWN{ξ:general:100.0, }
+DOWN{ξ:general:100.0, }
+DOWN{ξ:general:100.0, }
+DOWN{ξ:general:100.0, }
+DOWN{ξ:general:100.0, }
+DOWN{ξ:general:100.0, }
+DOWN{ξ:general:100.0, }
+CERTAIN{ξ:general:100.0, }
+CERTAIN{ξ:general:100.0, }
+CERTAIN{ξ:general:100.0, }
+CERTAIN{ξ:general:100.0, }
+CERTAIN{ξ:general:100.0, }
+CERTAIN{ξ:general:100.0, }
+CERTAIN{ξ:general:100.0, }
+HEARD{ξ:general:100.0, }
+HEARD{ξ:general:100.0, }
+HEARD{ξ:general:100.0, }
+HEARD{ξ:general:100.0, }
+HEARD{ξ:general:100.0, }
+HEARD{ξ:general:100.0, }
+UNDERSTAND{ξ:general:100.0, }
+UNDERSTAND{ξ:general:100.0, }
+UNDERSTAND{ξ:general:100.0, }
+UNDERSTAND{ξ:general:100.0, }
+UNDERSTAND{ξ:general:100.0, }
+UNDERSTAND{ξ:general:100.0, }
+UNDERSTAND{ξ:general:100.0, }
+UNDERSTAND{ξ:general:100.0, }
+UNDERSTAND{ξ:general:100.0, }
+UNDERSTAND{ξ:general:100.0, }
+UNDERSTAND{ξ:general:100.0, }
+UNDERSTAND{ξ:general:100.0, }
+UNDERSTAND{ξ:general:100.0, }
+MOTIVATING{ξ:general:100.0, }
+RECEIVING{ξ:general:100.0, }
+CARE{ξ:general:100.0, }
+CARE{ξ:general:100.0, }
+CARE{ξ:general:100.0, }
+CARE{ξ:general:100.0, }
+CARE{ξ:general:100.0, }
+CARE{ξ:general:100.0, }
+CARE{ξ:general:100.0, }
+LONG{ξ:general:100.0, }
+LONG{ξ:general:100.0, }
+LONG{ξ:general:100.0, }
+LONG{ξ:general:100.0, }
+LONG{ξ:general:100.0, }
+LONG{ξ:general:100.0, }
+LONG{ξ:general:100.0, }
+ATTRACTED{ξ:general:100.0, }
+ATTRACT{ξ:general:100.0, }
+SMILING{ξ:general:100.0, }
+GROUND{ξ:general:100.0, }
+GROUND{ξ:general:100.0, }
+GROUND{ξ:general:100.0, }
+ATTACHED{ξ:general:100.0, }
+NERVES{ξ:general:100.0, }
+SAW{ξ:general:100.0, }
+SAW{ξ:general:100.0, }
+SAW{ξ:general:100.0, }
+SAW{ξ:general:100.0, }
+SAW{ξ:general:100.0, }
+SAW{ξ:general:100.0, }
+SAW{ξ:general:100.0, }
+SAW{ξ:general:100.0, }
+SAW{ξ:general:100.0, }
+AGGRESSIVE{ξ:general:100.0, }
+AGGRESSIVE{ξ:general:100.0, }
+AGGRESSIVE{ξ:general:100.0, }
+LOW{ξ:general:100.0, }
+LOW{ξ:general:100.0, }
+LOW{ξ:general:100.0, }
+LOW{ξ:general:100.0, }
+LOW{ξ:general:100.0, }
+LOW{ξ:general:100.0, }
+LOW{ξ:general:100.0, }
+LOW{ξ:general:100.0, }
+LOW{ξ:general:100.0, }
+DETERMINE{ξ:general:100.0, }
+RESPECTING{ξ:general:100.0, }
+ATTRACTIVE{ξ:general:100.0, }
+ATTRACTIVE{ξ:general:100.0, }
+ATTRACTIVE{ξ:general:100.0, }
+ATTRACTIVE{ξ:general:100.0, }
+EASE{ξ:general:100.0, }
+EASE{ξ:general:100.0, }
+EASE{ξ:general:100.0, }
+CURIOUS{ξ:general:100.0, }
+CURIOUS{ξ:general:100.0, }
+CURIOUS{ξ:general:100.0, }
+CURIOUS{ξ:general:100.0, }
+CURIOUS{ξ:general:100.0, }
+CURIOUS{ξ:general:100.0, }
+CURIOUS{ξ:general:100.0, }
+CURIOUS{ξ:general:100.0, }
+CURIOUS{ξ:general:100.0, }
+CRITICAL{ξ:general:100.0, }
+PLEASE{ξ:general:100.0, }
+PLEASE{ξ:general:100.0, }
+QUIET{ξ:general:100.0, }
+LOVED{ξ:general:100.0, }
+HEAR{ξ:general:100.0, }
+HEAR{ξ:general:100.0, }
+HEAR{ξ:general:100.0, }
+HEAR{ξ:general:100.0, }
+HEAR{ξ:general:100.0, }
+HEAR{ξ:general:100.0, }
+HEAR{ξ:general:100.0, }
+HEAR{ξ:general:100.0, }
+CONTENTS{ξ:general:100.0, }
+CONTENTS{ξ:general:100.0, }
+CONTENT{ξ:general:100.0, }
+CONTENT{ξ:general:100.0, }
+CONTENT{ξ:general:100.0, }
+APPRECIATE{ξ:general:100.0, }
+APPRECIATE{ξ:general:100.0, }
+OSTRACIZING{ξ:general:100.0, }
+HOPEFULLY{ξ:general:100.0, }
+HOPEFULLY{ξ:general:100.0, }
+UNDERSTOOD{ξ:general:100.0, }
+INQUIRE{ξ:general:100.0, }
+CONNECT{ξ:general:100.0, }
+CONNECT{ξ:general:100.0, }
+TRUST{ξ:general:100.0, }
+POSITIVE{ξ:general:100.0, }
+POSITIVE{ξ:general:100.0, }
+POSITIVE{ξ:general:100.0, }
+WONDER{ξ:general:100.0, }
+WONDER{ξ:general:100.0, }
+WONDER{ξ:general:100.0, }
+WONDER{ξ:general:100.0, }
+WONDER{ξ:general:100.0, }
+WONDER{ξ:general:100.0, }
+HESITANT{ξ:general:100.0, }
+ANGRY{ξ:general:100.0, }
+ANGRY{ξ:general:100.0, }
+ANGRY{ξ:general:100.0, }
+COLD{ξ:general:100.0, }
+COLD{ξ:general:100.0, }
+COLD{ξ:general:100.0, }
+COLD{ξ:general:100.0, }
+COLD{ξ:general:100.0, }
+OSTRACIZED{ξ:general:100.0, }
+DESIROUS{ξ:general:100.0, }
+DESIROUS{ξ:general:100.0, }
+DESIRE{ξ:general:100.0, }
+DESIRE{ξ:general:100.0, }
+DISAPPOINTING{ξ:general:100.0, }
+HOPEFUL{ξ:general:100.0, }
+OPEN{ξ:general:100.0, }
+OPEN{ξ:general:100.0, }
+OPEN{ξ:general:100.0, }
+OPEN{ξ:general:100.0, }
+OPEN{ξ:general:100.0, }
+OPEN{ξ:general:100.0, }
+OPEN{ξ:general:100.0, }
+OPEN{ξ:general:100.0, }
+OPEN{ξ:general:100.0, }
+GROUNDED{ξ:general:100.0, }
+UNDERSTANDING{ξ:general:100.0, }
+UNDERSTANDING{ξ:general:100.0, }
+UNDERSTANDING{ξ:general:100.0, }
+UNDERSTANDING{ξ:general:100.0, }
+UNDERSTANDING{ξ:general:100.0, }
+DESPAIR{ξ:general:100.0, }
+DESPAIR{ξ:general:100.0, }
+DESPAIR{ξ:general:100.0, }
+JUMP{ξ:general:100.0, }
+JUMP{ξ:general:100.0, }
+EAGER{ξ:general:100.0, }
+EXCITED{ξ:general:100.0, }
+INTERESTS{ξ:general:100.0, }
+EDGY{ξ:general:100.0, }
+ACCEPT{ξ:general:100.0, }
+ACCEPT{ξ:general:100.0, }
+DEPRESSED{ξ:general:100.0, }
+PERCEIVES{ξ:general:100.0, }
+GRATEFUL{ξ:general:100.0, }
+LONGER{ξ:general:100.0, }
+LONGER{ξ:general:100.0, }
+LONGER{ξ:general:100.0, }
+LONGER{ξ:general:100.0, }
+SURPRISE{ξ:general:100.0, }
+ANNOYING{ξ:general:100.0, }
+ANNOYING{ξ:general:100.0, }
+ANNOYING{ξ:general:100.0, }
+SEEING{ξ:general:100.0, }
+SEEING{ξ:general:100.0, }
+SECURE{ξ:general:100.0, }
+WORRIED{ξ:general:100.0, }
+WORRYING{ξ:general:100.0, }
+PERCEIVED{ξ:general:100.0, }
+PERCEIVED{ξ:general:100.0, }
+PERCEIVED{ξ:general:100.0, }
+LOVES{ξ:general:100.0, }
+AFRAID{ξ:general:100.0, }
+AFRAID{ξ:general:100.0, }
+EMBARRASSING{ξ:general:100.0, }
+ANXIOUS{ξ:general:100.0, }
+ANXIOUS{ξ:general:100.0, }
+ANXIOUS{ξ:general:100.0, }
+ACCEPTED{ξ:general:100.0, }
+WORRY{ξ:general:100.0, }
+HEARING{ξ:general:100.0, }
+JUMPING{ξ:general:100.0, }
+JUMPING{ξ:general:100.0, }
+JUMPING{ξ:general:100.0, }
+JEALOUS{ξ:general:100.0, }
+JEALOUS{ξ:general:100.0, }
+SHAME{ξ:general:100.0, }
+ENCOURAGE{ξ:general:100.0, }
+ENCOURAGED{ξ:general:100.0, }
+JUMPS{ξ:general:100.0, }
+JUMPED{ξ:general:100.0, }
+MANIC{ξ:general:100.0, }
+MANIC{ξ:general:100.0, }
+MANIC{ξ:general:100.0, }
+MANIC{ξ:general:100.0, }
+SEEN{ξ:general:100.0, }
+CARES{ξ:general:100.0, }
+PERCEIVE{ξ:general:100.0, }
+DISINTERESTED{ξ:general:100.0, }
+DISINTERESTED{ξ:general:100.0, }
+EXCITING{ξ:general:100.0, }
+EXCITING{ξ:general:100.0, }
+AVOIDANT{ξ:general:100.0, }
+AVOIDANT{ξ:general:100.0, }
+CONFIDE{ξ:general:100.0, }
+FOCUS{ξ:general:100.0, }
+RESPECT{ξ:general:100.0, }
+FRUSTRATED{ξ:general:100.0, }
+FRUSTRATED{ξ:general:100.0, }
+ANGER{ξ:general:100.0, }
+ANGER{ξ:general:100.0, }
+ANGER{ξ:general:100.0, }
+CONFUSING{ξ:general:100.0, }
+COMFORT{ξ:general:100.0, }
+OPENLY{ξ:general:100.0, }
+SUSPECT{ξ:general:100.0, }
+DETACHED{ξ:general:100.0, }
+NERVE{ξ:general:100.0, }
+DOUBTFUL{ξ:general:100.0, }
